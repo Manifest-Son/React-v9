@@ -18,11 +18,11 @@ const App = () => {
     }),
     React.createElement(Pizza, {
       name: "The Pizza",
-      description: "some good pizza",
+      description: "Chilli flavour",
     }),
     React.createElement(Pizza, {
-      name: "The pizza",
-      description: "some good pizza",
+      name: "CupCake",
+      description: "Vanilla flavour",
     }),
     React.createElement(Pizza, {
       name: "The pizza",
