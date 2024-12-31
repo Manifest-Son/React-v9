@@ -7,18 +7,17 @@ export const Route = createLazyFileRoute("/")({
 function Index() {
   return (
     <div className="index">
-        <div className="index-brand">
-      <h1>Padre Gino's</h1>
-      <p>Pizza & Art at a location near you.</p>
-    </div>
+      <div className="index-brand">
+        <h1>Padre Gino's</h1>
+        <p>Pizza & Art at a location near you.</p>
+      </div>
 
       <ul>
         <li>
-            <Link to="/order">Order</Link>
-            <Link to="/past">Past Orders</Link>
+          <Link to="/order">Order</Link>
+          <Link to="/past">Past Orders</Link>
         </li>
       </ul>
     </div>
-    
   );
 }
