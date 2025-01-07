@@ -1,0 +1,16 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Lol 1`] = `
+{
+  "category": "Supreme",
+  "description": "lol pizza from Calabria",
+  "id": "calabrese",
+  "image": "/public/pizzas/calabrese.webp",
+  "name": "The Calabrese Pizza",
+  "size": {
+    "L": 20.25,
+    "M": 16.25,
+    "S": 12.25,
+  },
+}
+`;
